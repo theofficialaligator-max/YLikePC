@@ -9,4 +9,3 @@
 - Initial release
 - Mobile-style double-click likes
 - Animated hearts
-- Random heart rotation
