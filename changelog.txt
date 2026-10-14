@@ -1,0 +1,12 @@
+# YLikePC Changelog
+
+## v0.1.1
+- Fixed manifest.json errors
+- Added Chrome support fixes
+- Improved double-click detection
+
+## v0.1.0
+- Initial release
+- Mobile-style double-click likes
+- Animated hearts
+- Random heart rotation
